@@ -8,3 +8,5 @@ Add your name in the given format.
 * [Sri Haritha Kancharla](https://contrihub21.herokuapp.com/profile/user/haritha8333/)
 * [Swati Jindal](https://contrihub21.herokuapp.com/profile/user/Swatijindal08/)
 * [Kushagra Sharma](https://contrihub21.herokuapp.com/profile/user/randomkush/)
+* [Vaishnavi Tripathi](https://contrihub21.herokuapp.com/profile/user/vaishnavi1011/)
+* [Aman Raj](https://contrihub21.herokuapp.com/profile/user/Amandev02/)
